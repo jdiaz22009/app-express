@@ -4,7 +4,7 @@
   "description": "APLICATIVO PARA CREAR API REST ",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon ./src/index.js"
   },
   "author": "Juan David Diaz",
   "license": "ISC",
